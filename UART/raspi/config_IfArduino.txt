@@ -1,0 +1,3 @@
+baudrate= 57200
+useDefaultUART= Yes
+default_UART= /dev/ttyS0
